@@ -1,0 +1,91 @@
+date,channel,previous_spend,recommended_spend,pct_change,rationale
+1/1/2025,Search,845.0,971.75,+15.0%,"Top performer (CVR: 4.27%, CPA: $12.67). Spend +15%."
+1/1/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.77%). Spend held steady.
+1/1/2025,Display,845.0,718.25,-15.0%,Lowest CVR (2.92%). Spend -15%.
+1/2/2025,Search,971.75,1117.51,+15.0%,"Top performer (CVR: 4.31%, CPA: $10.07). Spend +15%."
+1/2/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.79%). Spend held steady.
+1/2/2025,Display,718.25,610.51,-15.0%,Lowest CVR (2.96%). Spend -15%.
+1/3/2025,Search,1117.51,1285.14,+15.0%,"Top performer (CVR: 4.35%, CPA: $10.44). Spend +15%."
+1/3/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.80%). Spend held steady.
+1/3/2025,Display,610.51,518.94,-15.0%,Lowest CVR (2.99%). Spend -15%.
+1/4/2025,Search,1285.14,1477.91,+15.0%,"Top performer (CVR: 4.38%, CPA: $8.50). Spend +15%."
+1/4/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.81%). Spend held steady.
+1/4/2025,Display,518.94,441.1,-15.0%,Lowest CVR (3.01%). Spend -15%.
+1/5/2025,Search,1477.91,1699.6,+15.0%,"Top performer (CVR: 4.40%, CPA: $8.94). Spend +15%."
+1/5/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.82%). Spend held steady.
+1/5/2025,Display,441.1,374.93,-15.0%,Lowest CVR (3.03%). Spend -15%.
+1/6/2025,Search,1699.6,1444.66,-15.0%,Lowest CVR (2.58%). Spend -15%.
+1/6/2025,Social,845.0,845.0,+0.0%,Moderate CVR (3.83%). Spend held steady.
+1/6/2025,Display,374.93,431.17,+15.0%,"Top performer (CVR: 6.75%, CPA: $14.28). Spend +15%."
+1/7/2025,Search,1444.66,1227.96,-15.0%,Lowest CVR (4.50%). Spend -15%.
+1/7/2025,Social,845.0,971.75,+15.0%,"Top performer (CVR: 6.95%, CPA: $8.95). Spend +15%."
+1/7/2025,Display,431.17,431.17,+0.0%,Moderate CVR (6.12%). Spend held steady.
+1/8/2025,Search,1227.96,1227.96,+0.0%,Moderate CVR (4.53%). Spend held steady.
+1/8/2025,Social,971.75,825.99,-15.0%,Lowest CVR (3.26%). Spend -15%.
+1/8/2025,Display,431.17,495.85,+15.0%,"Top performer (CVR: 5.69%, CPA: $12.53). Spend +15%."
+1/9/2025,Search,1227.96,1227.96,+0.0%,Moderate CVR (4.54%). Spend held steady.
+1/9/2025,Social,825.99,702.09,-15.0%,Lowest CVR (3.33%). Spend -15%.
+1/9/2025,Display,495.85,570.22,+15.0%,"Top performer (CVR: 5.36%, CPA: $11.86). Spend +15%."
+1/10/2025,Search,1227.96,1227.96,+0.0%,Moderate CVR (4.56%). Spend held steady.
+1/10/2025,Social,702.09,596.78,-15.0%,Lowest CVR (3.39%). Spend -15%.
+1/10/2025,Display,570.22,655.76,+15.0%,"Top performer (CVR: 5.11%, CPA: $11.29). Spend +15%."
+1/11/2025,Search,1227.96,1412.15,+15.0%,"Top performer (CVR: 4.57%, CPA: $7.21). Spend +15%."
+1/11/2025,Social,596.78,596.78,+0.0%,Moderate CVR (3.43%). Spend held steady.
+1/11/2025,Display,655.76,557.39,-15.0%,Lowest CVR (1.57%). Spend -15%.
+1/12/2025,Search,1412.15,1200.33,-15.0%,Lowest CVR (2.73%). Spend -15%.
+1/12/2025,Social,596.78,596.78,+0.0%,Moderate CVR (3.47%). Spend held steady.
+1/12/2025,Display,557.39,641.0,+15.0%,"Top performer (CVR: 3.71%, CPA: $28.55). Spend +15%."
+1/13/2025,Search,1200.33,1200.33,+0.0%,Moderate CVR (4.74%). Spend held steady.
+1/13/2025,Social,596.78,686.29,+15.0%,"Top performer (CVR: 6.41%, CPA: $10.81). Spend +15%."
+1/13/2025,Display,641.0,544.85,-15.0%,Lowest CVR (3.62%). Spend -15%.
+1/14/2025,Search,1200.33,1200.33,+0.0%,Moderate CVR (4.74%). Spend held steady.
+1/14/2025,Social,686.29,789.24,+15.0%,"Top performer (CVR: 6.11%, CPA: $10.13). Spend +15%."
+1/14/2025,Display,544.85,463.12,-15.0%,Lowest CVR (3.56%). Spend -15%.
+1/15/2025,Search,1200.33,1380.38,+15.0%,"Top performer (CVR: 4.74%, CPA: $8.64). Spend +15%."
+1/15/2025,Social,789.24,670.85,-15.0%,Lowest CVR (2.85%). Spend -15%.
+1/15/2025,Display,463.12,463.12,+0.0%,Moderate CVR (3.51%). Spend held steady.
+1/16/2025,Search,1380.38,1587.44,+15.0%,"Top performer (CVR: 4.74%, CPA: $9.07). Spend +15%."
+1/16/2025,Social,670.85,570.22,-15.0%,Lowest CVR (2.95%). Spend -15%.
+1/16/2025,Display,463.12,463.12,+0.0%,Moderate CVR (3.48%). Spend held steady.
+1/17/2025,Search,1587.44,1349.32,-15.0%,Lowest CVR (2.74%). Spend -15%.
+1/17/2025,Social,570.22,570.22,+0.0%,Moderate CVR (3.03%). Spend held steady.
+1/17/2025,Display,463.12,532.59,+15.0%,"Top performer (CVR: 3.45%, CPA: $12.44). Spend +15%."
+1/18/2025,Search,1349.32,1146.92,-15.0%,Lowest CVR (2.88%). Spend -15%.
+1/18/2025,Social,570.22,570.22,+0.0%,Moderate CVR (3.11%). Spend held steady.
+1/18/2025,Display,532.59,612.48,+15.0%,"Top performer (CVR: 7.17%, CPA: $11.71). Spend +15%."
+1/19/2025,Search,1146.92,974.88,-15.0%,Lowest CVR (4.98%). Spend -15%.
+1/19/2025,Social,570.22,570.22,+0.0%,Moderate CVR (5.84%). Spend held steady.
+1/19/2025,Display,612.48,704.35,+15.0%,"Top performer (CVR: 6.53%, CPA: $11.09). Spend +15%."
+1/20/2025,Search,974.88,828.65,-15.0%,Lowest CVR (4.96%). Spend -15%.
+1/20/2025,Social,570.22,570.22,+0.0%,Moderate CVR (5.61%). Spend held steady.
+1/20/2025,Display,704.35,810.01,+15.0%,"Top performer (CVR: 6.07%, CPA: $10.57). Spend +15%."
+1/21/2025,Search,828.65,828.65,+0.0%,Moderate CVR (4.94%). Spend held steady.
+1/21/2025,Social,570.22,655.76,+15.0%,"Top performer (CVR: 5.42%, CPA: $9.13). Spend +15%."
+1/21/2025,Display,810.01,688.51,-15.0%,Lowest CVR (1.78%). Spend -15%.
+1/22/2025,Search,828.65,952.95,+15.0%,"Top performer (CVR: 4.92%, CPA: $7.32). Spend +15%."
+1/22/2025,Social,655.76,655.76,+0.0%,Moderate CVR (2.50%). Spend held steady.
+1/22/2025,Display,688.51,585.23,-15.0%,Lowest CVR (1.93%). Spend -15%.
+1/23/2025,Search,952.95,952.95,+0.0%,Moderate CVR (2.91%). Spend held steady.
+1/23/2025,Social,655.76,557.39,-15.0%,Lowest CVR (2.63%). Spend -15%.
+1/23/2025,Display,585.23,673.01,+15.0%,"Top performer (CVR: 4.67%, CPA: $23.82). Spend +15%."
+1/24/2025,Search,952.95,952.95,+0.0%,Moderate CVR (3.04%). Spend held steady.
+1/24/2025,Social,557.39,473.78,-15.0%,Lowest CVR (2.73%). Spend -15%.
+1/24/2025,Display,673.01,773.97,+15.0%,"Top performer (CVR: 4.40%, CPA: $21.18). Spend +15%."
+1/25/2025,Search,952.95,952.95,+0.0%,Moderate CVR (5.22%). Spend held steady.
+1/25/2025,Social,473.78,544.85,+15.0%,"Top performer (CVR: 5.25%, CPA: $13.04). Spend +15%."
+1/25/2025,Display,773.97,657.87,-15.0%,Lowest CVR (4.21%). Spend -15%.
+1/26/2025,Search,952.95,1095.89,+15.0%,"Top performer (CVR: 5.17%, CPA: $8.79). Spend +15%."
+1/26/2025,Social,544.85,544.85,+0.0%,Moderate CVR (5.09%). Spend held steady.
+1/26/2025,Display,657.87,559.19,-15.0%,Lowest CVR (4.07%). Spend -15%.
+1/27/2025,Search,1095.89,1260.28,+15.0%,"Top performer (CVR: 5.13%, CPA: $9.21). Spend +15%."
+1/27/2025,Social,544.85,544.85,+0.0%,Moderate CVR (4.96%). Spend held steady.
+1/27/2025,Display,559.19,475.31,-15.0%,Lowest CVR (3.97%). Spend -15%.
+1/28/2025,Search,1260.28,1071.23,-15.0%,Lowest CVR (2.94%). Spend -15%.
+1/28/2025,Social,544.85,626.58,+15.0%,"Top performer (CVR: 4.86%, CPA: $10.38). Spend +15%."
+1/28/2025,Display,475.31,475.31,+0.0%,Moderate CVR (3.89%). Spend held steady.
+1/29/2025,Search,1071.23,910.55,-15.0%,Lowest CVR (3.07%). Spend -15%.
+1/29/2025,Social,626.58,626.58,+0.0%,Moderate CVR (4.77%). Spend held steady.
+1/29/2025,Display,475.31,546.61,+15.0%,"Top performer (CVR: 8.42%, CPA: $10.30). Spend +15%."
+1/30/2025,Search,910.55,910.55,+0.0%,Moderate CVR (3.19%). Spend held steady.
+1/30/2025,Social,626.58,532.59,-15.0%,Lowest CVR (2.35%). Spend -15%.
+1/30/2025,Display,546.61,628.6,+15.0%,"Top performer (CVR: 7.51%, CPA: $9.82). Spend +15%."
